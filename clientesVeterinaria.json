@@ -1,0 +1,12 @@
+{
+  "clientes":[
+    {
+      "nombre": "Sasha",
+      "propietario": "David Puerto",
+      "email": "dsp5502@gmail.com",
+      "direccion": "Cra 13 #21 - 92",
+      "telefono": "3046343387",
+      "Sintomas": "No come"
+    }
+  ]
+}
