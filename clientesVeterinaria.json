@@ -1,12 +1,22 @@
 {
   "clientes":[
     {
+      "id": "1",
       "nombre": "Sasha",
       "propietario": "David Puerto",
       "email": "dsp5502@gmail.com",
       "direccion": "Cra 13 #21 - 92",
       "telefono": "3046343387",
-      "Sintomas": "No come"
+      "sintomas": "No come"
+    },
+    {
+      "id": "2",
+      "nombre": "Kira",
+      "propietario": "David Puerto",
+      "email": "dsp5502@gmail.com",
+      "direccion": "Cra 13 #21 - 92",
+      "telefono": "3046343387",
+      "sintomas": "No duerme"
     }
   ]
 }
